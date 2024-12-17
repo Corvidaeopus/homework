@@ -1,7 +1,7 @@
 # Corwin Laramore
 ## I donate to Wikipedia every month.
 
-Goals for Data Analytics Course:
+### Goals for Data Analytics Course:
 1. Learn something new everyday
 2. Help as many people as often as I can
 3. Find a decent career in an interesting field
